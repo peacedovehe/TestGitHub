@@ -16,7 +16,7 @@ import android.view.View;
 /**
  * 自定义锁屏View
  * 
- * @author rxx
+ * @author phe
  *
  * 2014年12月11日  下午5:59:32
  */
